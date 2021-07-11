@@ -1,0 +1,5 @@
+data/*.weights
+data/video/*.mp4
+data/helpers/*.gif
+outputs/*.avi
+checkpoints/
